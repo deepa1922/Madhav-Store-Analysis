@@ -5,11 +5,11 @@
 
 
 ## 📌Objective:
-Assisting Madhav Store in tracking and analyzing online sales across India.
+- Assisting Madhav Store in tracking and analyzing online sales across India.
 
 ## 📌Key Steps:
-1)Data Import: Imported data from a CSV file.
-2)Power Query Editor: Explored options like adding columns, changing data types, and advanced grouping for effective data manipulation.
+- 1)Data Import: Imported data from a CSV file.
+- 2)Power Query Editor: Explored options like adding columns, changing data types, and advanced grouping for effective data manipulation.
 3)Data and Model View: Used Model View to establish crucial relationships for analysis.
 4)Report View: Created a dashboard using various charts, employing time-saving features like text boxes for titles, and utilizing format painter for consistency.
 
