@@ -1,9 +1,6 @@
 ## MADHAV STORE ANALYSIS
 𝐀𝐧𝐚𝐥𝐲𝐬𝐞 𝐄-𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐚𝐧 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐔𝐬𝐢𝐧𝐠 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈. 
 
-![Alt Text](Image URL)
-
-
 ## 📌Objective:
 - Assisting Madhav Store in tracking and analyzing online sales across India.
 
